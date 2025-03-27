@@ -68,7 +68,7 @@ text-align: right;
 .section-content {
   display: flex;
   height: 80vh;
-  background-image: url('../img-artewave/back-arte.jpg');
+  background-image: url('./img/back-arte.jpg');
   background-size: cover;
   background-position: center;
   justify-content: center;
