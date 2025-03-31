@@ -64,7 +64,6 @@ text-align: right;
 }
 
 /* banner principal */
-/* banner principal */
 .section-content {
   display: flex;
   height: 80vh;
@@ -137,6 +136,7 @@ text-align: right;
   margin-bottom: 10px;
   background-color: transparent;
   border: 2px solid #fff;
+  color: #fff;
 }
 
 .form-input:focus {
